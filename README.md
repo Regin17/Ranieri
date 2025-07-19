@@ -80,7 +80,7 @@
     <div class="servicos">
       <div class="card">
         <h3>Aqui fazemos</h3>
-          <h3>Troca de pelicula</h3>    
+          <h3>Troca de pelicula </h3>    
         <h3>Xerox</h3>
          <h3>Assistência Técnica para celular</h3>
           <h3>Impressões Diversas</h3>
